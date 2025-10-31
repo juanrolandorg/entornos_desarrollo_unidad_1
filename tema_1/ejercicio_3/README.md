@@ -43,6 +43,8 @@ Un commit puede tener:
  **Que es una rama?**
 
 Una rama es un apuntador (puntero) a un commit especifico. Es como una linea de tiempo separada para trabajar en una caracteristica o idea.
+La rama activa se idndica con un asterisco ("*") junto al nombre de la rama.
+
 
 **Rama por defecto**
 
@@ -80,4 +82,5 @@ Ocurre cuando ambas ramas tienen commits diferentes. Git necesita comparar las t
 El ancestro comun
 La rama actual
 La rama que se fusiona
+
 Crea un nuevo commit de fusion.
